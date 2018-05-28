@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Gemstone Printers Redux"
+	"version"			"1.0"
+	"author_name"		"Buffet Time"
+	"author_emai"		"radd86@gmail.com"
+	"author_url"		"https://github.com/buffet-time/gemstone-printers-redux"
+	"info"				"5 Customizable Minamalistic DarkRP Printers"
+	"override"			"0"
+}
